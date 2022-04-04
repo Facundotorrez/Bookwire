@@ -1,0 +1,19 @@
+{
+  "name": "bookwire",
+  "version": "1.0.0",
+  "description": "proyecto integrador BookWire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Facundotorrez/Bookwire.git"
+  },
+  "author": "Facundo Torrez y Josefina Fruggoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Facundotorrez/Bookwire/issues"
+  },
+  "homepage": "https://github.com/Facundotorrez/Bookwire#readme"
+}
